@@ -5,8 +5,11 @@ This script will squash a libary organized by artist and album into one that is 
 
 This script assumes the following file structure to begin with:
 .\
+
 .\Artist1\Album\song.mp3
+
 or
+
 .\Artist2\Album\CD1\song.mp3
 
 The rule is that the top level folder from the root is the artist name.
@@ -14,5 +17,7 @@ Any folders contained therein are assumed to be albums.
 
 The result is a library that looks like this
 .\
+
 .\Artist1\A-song.mp3
+
 .\Artist2\AC-song.mp3
