@@ -23,3 +23,5 @@ The result is a library that looks like this
 .\Artist1\A-song.mp3
 
 .\Artist2\AC-song.mp3
+
+This script uses EyeD3 (https://eyed3.readthedocs.io/en/latest/)
